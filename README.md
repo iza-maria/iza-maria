@@ -2,7 +2,7 @@
 
 # Olá! Eu sou a Iza Maria 👋
 
-### Analista de Controladoria • Data Analytics • Engenheira de Produção
+### Business Intelligence • Controladoria • Gestão de Estoques
 
 Transformando dados em decisões através de Business Intelligence.
 
