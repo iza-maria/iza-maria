@@ -1,16 +1,46 @@
-## Hi there 👋
+## Olá! Eu sou a Iza Maria 👋
+---
+Analista de Controladoria | Data Analytics | Engenheira de Produção | Gestão de Estoque
 
-<!--
-**iza-maria/iza-maria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Transformo dados em decisões através de Power BI, Excel, SQL e Python.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 Sobre mim:
+
+🎓 Engenheira de Produção - UFCG
+
+📚 Pós-graduação em Ciência de Dados e Big Data Analytics
+
+💼 Analista de Controladoria
+
+---
+## 📊 Experiência em:
+- Power BI;
+- Excel Avançado;
+- Power Query;
+- DAX;
+- Indicadores;
+- DRE;
+- Gestão de Estoques;
+- Prevenção de Perdas.
+
+---
+
+## 🚀 Atualmente estudando:
+
+- Python
+- SQL
+- Machine Learning
+- Ciência de Dados
+
+---
+
+## 📫 Contato:
+
+LinkedIn:
+www.linkedin.com/in/iza-mariaa
+
+Email:
+izamaria1998@gmail.com
