@@ -28,23 +28,18 @@ Transformando dados em decisões através de Business Intelligence.
 
 📚 Pós-graduanda em **Ciência de Dados e Big Data Analytics**
 
-💼 Atualmente atuo como **Analista de Controladoria e Prevenção de Perdas**, desenvolvendo indicadores estratégicos e dashboards para apoio à tomada de decisão.
+💼 Atualmente atuo como **Analista de Controladoria e Prevenção de Perdas**, sendo responsável pelo desenvolvimento de indicadores estratégicos e análises voltadas para Controladoria, Gestão de Estoques e Prevenção de Perdas.
 
-Tenho experiência em:
+Minha atuação envolve:
 
-- Business Intelligence
-- Power BI
-- Excel Avançado
-- Power Query
-- DAX
-- Indicadores de Performance (KPIs)
-- Forecast
-- DRE
-- Gestão de Estoques
-- Inventários
-- Prevenção de Perdas
-- Análise Financeira
-
+• Desenvolvimento de dashboards em Power BI
+• Construção de indicadores estratégicos (KPIs)
+• Gestão e acompanhamento de estoques
+• Inventários rotativos e gerais
+• Análise de apuracidade de estoque
+• Monitoramento de perdas operacionais
+• DRE e Forecast
+• Suporte à tomada de decisão baseada em dados
 ---
 
 # 🚀 Tecnologias
